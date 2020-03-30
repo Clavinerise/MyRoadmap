@@ -1,8 +1,8 @@
 # MyRoadmap
 
-Not finished yet. Feel free to clone/fork it and do whatever you want to it.
+Forked from [SPDUK](https://github.com/SPDUK/MyRoadmap)
 
-Currently learning: More React, GraphQL, More Node.js, Algorithms and related stuff.
+Currently learning: More Vue, NodeJS, ExpressJS, WebGL, ThreeJS.
 
 ✔️ - I'm comfortable with this.
 
@@ -17,10 +17,10 @@ Nothing - Not yet a priority
 ### Front End Basics
 
 - **HTML**
-  - [Seo](https://support.google.com/webmasters/answer/7451184?hl=en)
+  - [Seo 💡](https://support.google.com/webmasters/answer/7451184?hl=en)
   - [Accessibility](https://www.w3.org/TR/wai-aria-1.1/)
 - **CSS**
-  - [Responsive / Mobile First design](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive/Responsive/responsive_design_building_blocks)
+  - [Responsive / Mobile First design 🚧](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive/Responsive/responsive_design_building_blocks)
   - [Flexbox 🚧](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [CSS Grid 🚧](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
   - [Transitions 🚧](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
@@ -70,6 +70,7 @@ Nothing - Not yet a priority
 - **HTML**
   - [Canvas](https://www.youtube.com/watch?v=8ZGAzJ0drl0)
   - [WebGL 🚧](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
+  - ThreeJS 🚧
   - **Charts and Graphs**
     - [Chart.js](https://www.chartjs.org/)
     - [Chartist](https://gionkunz.github.io/chartist-js/)
