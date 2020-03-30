@@ -242,7 +242,7 @@ Nothing - Not yet a priority
   - [Docker](https://www.docker.com/)
   - [Bash 🚧](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>)
   - Linux in general 🚧
-    - Cron ✔️
+    - Cron
     - ...
   - Heroku 🚧
   - **VPS**
@@ -257,6 +257,7 @@ Nothing - Not yet a priority
 
 ### Intermediate Back-End
 
+- Java
 - [**Ruby**](https://www.ruby-lang.org/en/) | [Example App](https://github.com/SPDUK/portfolio)
 
   - [String Methods](https://devdocs.io/ruby~2.5/string)
@@ -287,7 +288,7 @@ Nothing - Not yet a priority
       - Authentication
       - Emails
 
-- [**Elixir** 🚧](https://elixir-lang.org/) | [Example App](https://poewishlist.xyz/)
+- [**Elixir**](https://elixir-lang.org/) | [Example App](https://poewishlist.xyz/)
 
   - String Methods 
 
@@ -346,38 +347,12 @@ Nothing - Not yet a priority
     - Distributed systems 
 
     - Clustering, Networking etc. 
+    
 
-      #
+#
 
-### Algorithms
+### Android Development
 
-- **Basics / Data Structures**
-  - Primitives / Arrays / Objects / Maps / Sets 
-  - Big O / Time Complexity 
-  - Stacks 
-  - Queues 
-  - Linked Lists 
-  - Trees
-  - Hash Tables 
-  - Binary Trees 
-  - Bloom Filters
-  - Tries
-- **Sorting**
-  - Bubble Sort 
-  - Selection Sort 
-  - Insertion Sort 
-  - Merge sort 
-  - Quick Sort 
-  - Heap Sort
-  - Radix Sort
-- **Searching**
-  - Breadth First Search 
-  - Depth First Search
-  - In-Order Traversal
-  - Pre / Post Order Traversal
-- **Graphs & Paths**
-  - Graphs
-  - Matrix
-  - Adjacency List
-- **Dynamic Programming**
-  - ...
+#
+
+### iOS Development
