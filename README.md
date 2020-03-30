@@ -147,7 +147,7 @@ Nothing - Not yet a priority
   - Component Basics
     - Data ✔️
     - Computed ✔️
-    - Watch 🚧
+    - Watch ✔️
     - Methods ✔️
   - [Directives ✔️](https://flaviocopes.com/vue-directives/)
   - Class / Style bindings ✔️
@@ -157,7 +157,7 @@ Nothing - Not yet a priority
   - Vue Router 🚧
   - Event Handling 🚧
   - Dynamic Components 🚧
-  - VueX 🚧
+  - VueX ✔️
   - [Transitions](https://vuejs.org/v2/guide/transitions.html)
   - [Render functions & JSX](https://vuejs.org/v2/guide/render-function.html)
   - [Mixins](https://vuejs.org/v2/guide/mixins.html)
