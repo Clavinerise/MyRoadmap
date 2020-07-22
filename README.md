@@ -28,7 +28,7 @@ Nothing - Not yet a priority
   - **Frameworks**
     - [Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/)
     - [Bulma](https://bulma.io/documentation/overview/start/)
-    - [Material UI](https://material-ui.com/)
+    - [Material UI 🚧](https://material-ui.com/)
 - **Javscript Fundamentals**
   - [var / let / const ✔️](https://wesbos.com/let-vs-const/)
   - [Math operators 🚧](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
@@ -59,8 +59,8 @@ Nothing - Not yet a priority
   - [Terminal Usage and Basic Linux Commands 🚧](https://youtu.be/OnSUX2otYos)
   - [NPM Scripts and Gulp 🚧](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633)
   - [Webpack 🚧](https://www.youtube.com/watch?v=lziuNMk_8eQ)
-  - [ESlint 🚧](https://www.youtube.com/watch?v=YIvjKId9m2c)
-  - [Babel 🚧](https://www.youtube.com/watch?v=2Hg25h0v4UM)
+  - [ESlint 💡](https://www.youtube.com/watch?v=YIvjKId9m2c)
+  - [Babel 💡](https://www.youtube.com/watch?v=2Hg25h0v4UM)
   - [Static Webpage Hosting 🚧](https://www.youtube.com/watch?v=FiOgz3nKpgk)
 
 #
@@ -126,14 +126,14 @@ Nothing - Not yet a priority
   - Constructors
 - **React**
   - JSX 
-  - Props 
+  - Props 🚧
   - State 
   - Virtual DOM 
   - Component Lifecycle Methods 
   - React Router 
-  - functional setState 
+  - functional setState 🚧
   - Container and Presentational Components 
-  - Functional and Class Components 
+  - Functional and Class Components 🚧
   - SyntheticEvent 
   - File structure 
   - **Testing**
@@ -236,7 +236,7 @@ Nothing - Not yet a priority
   - Absinthe (Elixir)
 - **Authentication**
   - [Passport.js](http://www.passportjs.org/)
-  - [JSON Web Tokens](https://www.npmjs.com/package/jsonwebtoken)
+  - [JSON Web Tokens 🚧](https://www.npmjs.com/package/jsonwebtoken)
   - [OAuth 2.0](https://oauth.net/2/)
 - **Deployment**
   - [Docker](https://www.docker.com/)
@@ -244,13 +244,13 @@ Nothing - Not yet a priority
   - Linux in general 🚧
     - Cron
     - ...
-  - Heroku 🚧
+  - Heroku 
   - **VPS**
-    - PM2
-    - Nginx
+    - PM2 🚧
+    - Nginx 🚧
     - Domains, DNS and CNAMEs
     - Log Files
-    - Fail2ban
+    - Fail2ban 🚧
     - [General security](https://www.digitalocean.com/community/questions/best-practices-for-hardening-new-sever-in-2017)
 
 #
