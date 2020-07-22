@@ -17,7 +17,7 @@ Nothing - Not yet a priority
 ### Front End Basics
 
 - **HTML**
-  - [Seo 💡](https://support.google.com/webmasters/answer/7451184?hl=en)
+  - [Seo 🚧](https://support.google.com/webmasters/answer/7451184?hl=en)
   - [Accessibility](https://www.w3.org/TR/wai-aria-1.1/)
 - **CSS**
   - [Responsive / Mobile First design 🚧](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive/Responsive/responsive_design_building_blocks)
